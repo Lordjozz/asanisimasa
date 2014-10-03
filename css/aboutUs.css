@@ -1,0 +1,54 @@
+body
+{
+  background: black;
+}
+
+#mainpage
+{
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 30px;	
+}
+
+#mainpage p
+{
+	color: white;
+	font-family: Century Gothic, Arial;
+	font-size: 14px;
+}
+
+#mainpage h1
+{
+	color: white;
+	font-family: Century Gothic, Arial;
+	font-size: 20px;
+}
+
+#aboutus
+{
+	padding-top: 20px;
+	height: 400px;
+}
+
+#twitter
+{
+	height: 400px;
+	padding-top: 40px;
+}
+
+#members
+{	
+	padding-top: 10px;
+	padding-bottom: 25px;
+}
+
+#headshot
+{	
+	padding-top: 10px;
+}
+
+#footer
+{
+	background-color: black;
+}
+

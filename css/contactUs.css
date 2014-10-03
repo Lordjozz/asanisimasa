@@ -1,0 +1,104 @@
+body
+{
+  background: black;
+}
+
+#mainpage
+{
+	background-color: black;
+	padding-top: 30px;
+	padding-bottom: 30px;	
+	
+	height: 450px;
+}
+
+#mainpage p
+{
+	color: white;
+	font-family: Century Gothic, Arial;
+	font-size: 14px;
+}
+
+#footer
+{
+	background-color: black;
+}
+
+#mainpage h1
+{
+	color: white;
+	font-family: Century Gothic, Arial;
+	font-size: 20px;
+}
+
+#form label
+{
+	color: white;
+	padding: 20px;
+	font-family: Century Gothic;
+	font-size: 14px;
+}
+
+#form input, #form textarea 
+{
+	
+	width: 400px;
+	font-family: Century Gothic;
+	font-size: 14px;
+	margin: 10px 0px 0px 0px;
+	border: 1px solid #ccc;
+}
+
+#form textarea 
+{
+	margin-left: 80px;
+	height: 90px;
+	resize: none;
+}
+
+#form textarea:focus, #form input:focus 
+{
+	border: 2px solid #900;
+}
+
+#form input.submit-button 
+{
+	margin-top: 20px;
+	width: 100px;
+	float: right;
+}
+
+#form
+{
+	padding: 10px;
+	width: 580px;
+	margin-top: 25px;
+	background: #939393;
+}
+
+#formComplete
+{
+	padding: 10px;
+	width: 580px;
+	margin-top: 25px;
+	background: #939393;
+	height: 352px;
+}
+
+#formComplete p
+{
+	font-size: 20px;
+	text-align: center;
+	margin-top:150px;
+}
+
+
+
+#twitter-follow-button
+{
+	padding-left: 10px;
+	padding-top: 10px;
+
+}
+
+
